@@ -1,0 +1,45 @@
+body{
+
+  margin: 0;
+
+  padding: 16px;
+
+  background-image: url("bg.gif");
+
+  background-size: 100%;
+
+  color: rgb(199, 135, 189);
+
+  font-size:x-small
+
+ 
+  
+
+  
+
+}
+
+.birthday-card{
+
+  margin: 40px auto;
+
+  padding: 16px;
+
+  max-width: 500px;
+
+  background-color: #fff;
+
+  text-align: center;
+
+  box-shadow: 0 24px 40px -8px #e8c4e1;
+  
+
+}
+
+.birthday-card img{
+
+  width: 100%;
+
+  
+
+}
